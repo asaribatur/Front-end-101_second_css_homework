@@ -3,12 +3,14 @@ body{
     background-image: url("https://web.archive.org/web/19981202230410im_/http://www.google.com/alpha.jpg");
 }
 
+/* center images */
 img.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
 
+/* table preferences */
 table{
     margin-left: auto;
     margin-right: auto;
@@ -16,6 +18,7 @@ table{
     width: 90%;
 }
 
+/* center the text inside table column */
 td {
     text-align: center;
 }
